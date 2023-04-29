@@ -1,0 +1,33 @@
+.container{
+    border: 1px solid black;
+    display: flex;
+    /* flex-direction: column; */
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.primeiro{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+}
+
+.segundo{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+
+}
+
+.terceiro{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+
+.quarto{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+}
